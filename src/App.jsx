@@ -1,7 +1,9 @@
+import TopHeader from "./components/TopHeader";
+
 function App() {
   return (
     <>
-      <div>Hello world!</div>
+      <TopHeader />
     </>
   );
 }
