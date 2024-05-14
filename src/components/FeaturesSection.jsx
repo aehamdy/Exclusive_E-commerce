@@ -2,7 +2,7 @@ function FeaturesSection() {
   return (
     <div>
       <div className="container py-[140px] mx-auto w-fit grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[88px]">
-        <div className="flex flex-col justify-center items-center w-fit">
+        <div className="flex flex-col justify-center gap-6 items-center w-fit">
           <div className="flex justify-center items-center w-16 h-16 bg-[#b0aeb3] rounded-full">
             <div className="flex justify-center items-center bg-black w-12 h-12 rounded-full">
               <svg
@@ -77,14 +77,16 @@ function FeaturesSection() {
               </svg>
             </div>
           </div>
-          <h4 className="font-poppins font-semibold text-xl">
-            Free and fast delivery
-          </h4>
-          <p className="font-poppins font-normal text-sm">
-            Free delivery for all orders over $140
-          </p>
+          <div className="flex flex-col items-center gap-2">
+            <h4 className="font-poppins font-semibold text-xl uppercase">
+              Free and fast delivery
+            </h4>
+            <p className="font-poppins font-normal text-sm">
+              Free delivery for all orders over $140
+            </p>
+          </div>
         </div>
-        <div className="flex flex-col justify-center items-center w-fit">
+        <div className="flex flex-col justify-center gap-6 items-center w-fit">
           <div className="flex justify-center items-center w-16 h-16 bg-[#b0aeb3] rounded-full">
             <div className="flex justify-center items-center bg-black w-12 h-12 rounded-full">
               <svg
@@ -133,14 +135,16 @@ function FeaturesSection() {
               </svg>
             </div>
           </div>
-          <h4 className="font-poppins font-semibold text-xl">
-            Free and fast delivery
-          </h4>
-          <p className="font-poppins font-normal text-sm">
-            Free delivery for all orders over $140
-          </p>
+          <div className="flex flex-col items-center gap-2">
+            <h4 className="font-poppins font-semibold text-xl uppercase">
+              24/7 Customer Serivce
+            </h4>
+            <p className="font-poppins font-normal text-sm">
+              Friendly 24/7 customer support
+            </p>
+          </div>
         </div>
-        <div className="flex flex-col justify-center items-center w-fit">
+        <div className="flex flex-col justify-center gap-6 items-center w-fit">
           <div className="flex justify-center items-center w-16 h-16 bg-[#b0aeb3] rounded-full">
             <div className="flex justify-center items-center bg-black w-12 h-12 rounded-full">
               <svg
@@ -164,12 +168,14 @@ function FeaturesSection() {
               </svg>
             </div>
           </div>
-          <h4 className="font-poppins font-semibold text-xl">
-            Free and fast delivery
-          </h4>
-          <p className="font-poppins font-normal text-sm">
-            Free delivery for all orders over $140
-          </p>
+          <div className="flex flex-col items-center gap-2">
+            <h4 className="font-poppins font-semibold text-xl uppercase">
+              Money back guarantee
+            </h4>
+            <p className="font-poppins font-normal text-sm">
+              We return money within 30 days
+            </p>
+          </div>
         </div>
       </div>
     </div>

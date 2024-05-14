@@ -3,7 +3,7 @@ function BrowseByCategory() {
     <div className="container flex flex-wrap justify-around mx-auto">
       <a
         href="#"
-        className="group flex flex-col items-center justify-center gap-1 border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
+        className="group flex flex-col items-center justify-center gap-1 w-[170px] h-[145px] border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
       >
         <div className="flex flex-col justify-center items-center">
           {" "}
@@ -55,7 +55,7 @@ function BrowseByCategory() {
       </a>
       <a
         href="#"
-        className="group flex flex-col items-center justify-center gap-1 border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
+        className="group flex flex-col items-center justify-center gap-1 w-[170px] h-[145px] border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
       >
         <div className="flex flex-col justify-center items-center">
           {" "}
@@ -107,7 +107,7 @@ function BrowseByCategory() {
       </a>
       <a
         href="#"
-        className="group flex flex-col items-center justify-center gap-1 border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
+        className="group flex flex-col items-center justify-center gap-1 w-[170px] h-[145px] border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
       >
         <div className="flex flex-col justify-center items-center">
           {" "}
@@ -176,7 +176,7 @@ function BrowseByCategory() {
       </a>
       <a
         href="#"
-        className="group flex flex-col items-center justify-center gap-1 border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
+        className="group flex flex-col items-center justify-center gap-1 w-[170px] h-[145px] border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
       >
         <div className="flex flex-col justify-center items-center">
           {" "}
@@ -215,7 +215,7 @@ function BrowseByCategory() {
       </a>
       <a
         href="#"
-        className="group flex flex-col items-center justify-center gap-1 border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
+        className="group flex flex-col items-center justify-center gap-1 w-[170px] h-[145px] border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
       >
         <div className="flex flex-col justify-center items-center">
           {" "}
@@ -260,7 +260,7 @@ function BrowseByCategory() {
       </a>
       <a
         href="#"
-        className="group flex flex-col items-center justify-center gap-1 border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
+        className="group flex flex-col items-center justify-center gap-1 w-[170px] h-[145px] border-2 rounded px-[60px] hover:bg-[--button-hover] active:bg-[--button-2] transition duration-300"
       >
         <div className="flex flex-col justify-center items-center">
           {" "}
