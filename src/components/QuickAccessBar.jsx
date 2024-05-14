@@ -22,7 +22,7 @@ function QuickAccessBar() {
         <input
           type="search"
           placeholder="What are you looking for?"
-          className="py-[10px] pl-5 pr-[70px] bg-[#F5F5F5]"
+          className="py-[10px] pl-5 pr-[70px] bg-[#F5F5F5] rounded outline-none"
         />
       </div>
 

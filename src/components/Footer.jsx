@@ -31,7 +31,7 @@ function Footer() {
             <input
               type="email"
               placeholder="Enter your email"
-              className="bg-transparent py-3 pl-4 border-2 border-solid border-[--text-light] rounded w-full"
+              className="bg-transparent py-3 pl-4 border-2 border-solid border-[--text-light] rounded w-full outline-none"
             />
           </div>
         </div>
