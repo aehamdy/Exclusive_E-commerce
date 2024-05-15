@@ -1,3 +1,4 @@
+import Banner from "./components/Banner";
 import BrowseByCategory from "./components/BrowseByCategory";
 import FeaturesSection from "./components/FeaturesSection";
 import Footer from "./components/Footer";
@@ -10,7 +11,7 @@ function App() {
     <>
       <TopHeader />
       <Header />
-      <NewArrival />
+      <Banner />
       <Footer />
     </>
   );
